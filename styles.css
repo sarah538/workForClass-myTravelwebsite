@@ -1,0 +1,36 @@
+img{
+    width: 100%;
+}
+nav {
+    text-align: center;
+    background-color: rgb(206, 85, 85);
+    font-size: 1.5rem;
+    
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(243, 239, 225);
+}
+a:hover{
+    color:cornsilk;
+    background-color: aqua;
+
+}
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+main{
+    margin-left: 50px;
+    
+}
+main.stories{
+    width: 80%;
+    text-align: center;
+}
+.col img{
+    width: 100%;
+    opacity: 0.8;
+}
+
